@@ -2,7 +2,7 @@
   "name": "botoTwit",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "botoTwit.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
