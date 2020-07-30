@@ -4,9 +4,10 @@
   "description": "",
   "main": "botoTwit.js",
   "keywords": [],
-  "author": "",
+  "author": "atmon3r",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.0",    
     "columnify": "^1.5.4",
     "commander": "^5.1.0",
     "figlet": "^1.4.0",
